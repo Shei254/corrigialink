@@ -1,0 +1,86 @@
+[
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\main.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\main.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\main.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\log.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\log.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\log.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\log.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\common.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\common.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\common.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\common.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\lib\\fec.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\lib\\fec.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\lib\\fec.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\lib\\fec.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\lib\\rs.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\lib\\rs.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\lib\\rs.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\lib\\rs.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\packet.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\packet.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\packet.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\packet.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\delay_manager.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\delay_manager.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\delay_manager.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\delay_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\fd_manager.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\fd_manager.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\fd_manager.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\fd_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\connection.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\connection.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\connection.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\connection.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\fec_manager.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\fec_manager.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\fec_manager.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\fec_manager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\misc.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\misc.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\misc.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\misc.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\tunnel_client.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\tunnel_client.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\tunnel_client.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\tunnel_client.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\tunnel_server.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\tunnel_server.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\tunnel_server.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\tunnel_server.cpp.obj"
+},
+{
+  "directory": "C:/Users/Admin/source/repos/UDPspeeder/out/build/x64-Debug",
+  "command": "C:\\PROGRA~1\\MICROS~4\\2022\\COMMUN~1\\VC\\Tools\\MSVC\\1440~1.338\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\. -external:IC:\\Users\\Admin\\source\\repos\\UDPspeeder\\libev -external:W0 -Wall -Wextra -Wno-unused-variable -Wno-unused-parameter -Wno-missing-field-initializers -O2 -g -fsanitize=address,undefined /MDd /Zi /Ob0 /Od /RTC1 /FoCMakeFiles\\speederv2.dir\\my_ev.cpp.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Admin\\source\\repos\\UDPspeeder\\my_ev.cpp",
+  "file": "C:\\Users\\Admin\\source\\repos\\UDPspeeder\\my_ev.cpp",
+  "output": "CMakeFiles\\speederv2.dir\\my_ev.cpp.obj"
+}
+]
